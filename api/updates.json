@@ -1,60 +1,60 @@
 {
     "assets": [
         {
-            "file_name": "31246ecc68d1c6c53eea77e17a43e30d28c16ea04c4f69a6b2601100ac4301fb.zip",
+            "file_name": "aebdc9c801e47cfad25c00a6537eab757409a3a866b3b3a2c266338d15f885d2.zip",
             "version": {
                 "channel": "frarm64",
-                "name": "2.11.3-beta.2",
-                "code": 374
+                "name": "2.11.4",
+                "code": 375
             },
-            "upd_time": "2025-06-10 11:30:58",
+            "upd_time": "2025-06-10 13:17:31",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/31246ecc68d1c6c53eea77e17a43e30d28c16ea04c4f69a6b2601100ac4301fb.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/aebdc9c801e47cfad25c00a6537eab757409a3a866b3b3a2c266338d15f885d2.zip"
             ],
-            "sha256": "95ae747140d58b5ed27e9fa520fdb28c3667368fb05975f7b3fcb2705deccd0f",
-            "changelog": "## 更新内容\n* **优化**: 隐藏“导入导出设置”按钮 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/707  \n* **修复**: 第三方登录启动失败问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/711  \n* **引导优化**: 当用户试图更改第三方验证档案的披风时，将其引导至皮肤站内修改 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/712  \n* **修复**: LabyMod 相关问题修复 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/714  \n* **修复**: 部分字段未使用 McLoginType 枚举值 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/722  \n* **修复**: 排序比较时间时未处理时间相同的情况 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/725  \n* **修复**: SMTC 相关问题修复 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/718  \n* **体验优化**: 提升调试体验 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/717  \n* **代码同步**: Sync Code by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/731  \n* **代码同步**: Sync Code by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/732  \n* **修复**: CI 问题修复 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/734  \n* **主题系统**: 基于 HSL 颜色转换的全新主题系统 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/720  \n* **功能新增**: 添加新的更新源 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/729  \n* **修复**: 可能在获取更新信息前检查启动器最新版本的问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/735  \n* **修复**: 深色主题相关问题修复 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/736  \n* **功能新增**: 为服务器预览功能添加随机字符串 by @MinecraftYJQ in https://github.com/PCL-Community/PCL2-CE/pull/761  \n* **体验优化**: 服务器延迟测试与 UI 改进 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/760  \n* **修复**: 服务器解析可能引发的异常问题 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/763  \n* **数据库优化**: 使用 SQLite 替换模组文本数据库 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/768  \n* **修复**: #365 问题修复 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/784  \n* **修复**: 1.16.5 离线多人游戏问题 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/787  \n* **修复**: 官方版加载帮助库时因未隔离导致的错误 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/788  \n* **重构**: C# VB.NET 混合开发 & Java 选择页面重构 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/740  \n* **功能新增**: 使用系统默认图片查看器打开截图 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/789  \n* **修复**: 玩家名修改功能失效问题 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/794  \n* **维护**: 更新翻译接口地址 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/796  \n\n## 新贡献者\n* @MinecraftYJQ 首次贡献于 https://github.com/PCL-Community/PCL2-CE/pull/761  \n* @baiyuexiao496 首次贡献于 https://github.com/PCL-Community/PCL2-CE/pull/788  \n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.1...2.11.2\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载"
+            "sha256": "69fa95adc4fd815dc18c600ed0dd497f2e844d6a9587b6331117c241916f7b11",
+            "changelog": "**本版本基于官方版 2.10.1 开发**\n\n> 更新小故事：咕咕咕准备今晚发版，修几个 Bug 发正式版！正式版发布成功！再发 Beta 通道，发完后打开启动器天塌了，版本号没改！想着刚好修个 Java 选择错误，发个紧急更新……结果版本号写错了 :(\n\n## 修复\n\n- 错误的展示了不该展示的内容……\n- 版本号真的真的真的在 4 个渠道都正确了！\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.2...2.11.4\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载，Mirror 酱是可选下载源\n"
         },
         {
-            "file_name": "9ca60a85832e80166ec59d50f45cfdd793d0686d5310852ef8254926fa5884cc.zip",
+            "file_name": "c25fcb4911a086fe2e9c10d0c4fb7687b2f3010a06eb24331a4b447594985716.zip",
             "version": {
                 "channel": "frx64",
-                "name": "2.11.3-beta.2",
-                "code": 374
+                "name": "2.11.4",
+                "code": 375
             },
-            "upd_time": "2025-06-10 11:31:17",
+            "upd_time": "2025-06-10 13:17:32",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/9ca60a85832e80166ec59d50f45cfdd793d0686d5310852ef8254926fa5884cc.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/c25fcb4911a086fe2e9c10d0c4fb7687b2f3010a06eb24331a4b447594985716.zip"
             ],
-            "sha256": "9d66536818c038caff84834b66256d88a7e17911f3499e874f751be2de29e016",
-            "changelog": "## 更新内容\n* **优化**: 隐藏“导入导出设置”按钮 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/707  \n* **修复**: 第三方登录启动失败问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/711  \n* **引导优化**: 当用户试图更改第三方验证档案的披风时，将其引导至皮肤站内修改 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/712  \n* **修复**: LabyMod 相关问题修复 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/714  \n* **修复**: 部分字段未使用 McLoginType 枚举值 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/722  \n* **修复**: 排序比较时间时未处理时间相同的情况 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/725  \n* **修复**: SMTC 相关问题修复 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/718  \n* **体验优化**: 提升调试体验 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/717  \n* **代码同步**: Sync Code by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/731  \n* **代码同步**: Sync Code by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/732  \n* **修复**: CI 问题修复 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/734  \n* **主题系统**: 基于 HSL 颜色转换的全新主题系统 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/720  \n* **功能新增**: 添加新的更新源 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/729  \n* **修复**: 可能在获取更新信息前检查启动器最新版本的问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/735  \n* **修复**: 深色主题相关问题修复 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/736  \n* **功能新增**: 为服务器预览功能添加随机字符串 by @MinecraftYJQ in https://github.com/PCL-Community/PCL2-CE/pull/761  \n* **体验优化**: 服务器延迟测试与 UI 改进 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/760  \n* **修复**: 服务器解析可能引发的异常问题 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/763  \n* **数据库优化**: 使用 SQLite 替换模组文本数据库 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/768  \n* **修复**: #365 问题修复 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/784  \n* **修复**: 1.16.5 离线多人游戏问题 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/787  \n* **修复**: 官方版加载帮助库时因未隔离导致的错误 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/788  \n* **重构**: C# VB.NET 混合开发 & Java 选择页面重构 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/740  \n* **功能新增**: 使用系统默认图片查看器打开截图 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/789  \n* **修复**: 玩家名修改功能失效问题 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/794  \n* **维护**: 更新翻译接口地址 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/796  \n\n## 新贡献者\n* @MinecraftYJQ 首次贡献于 https://github.com/PCL-Community/PCL2-CE/pull/761  \n* @baiyuexiao496 首次贡献于 https://github.com/PCL-Community/PCL2-CE/pull/788  \n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.1...2.11.2\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载"
+            "sha256": "cb3f3eea5bdde7a694056970abfb6ffd90bb70ee5e614ac7c4c29c3056c8d2c8",
+            "changelog": "**本版本基于官方版 2.10.1 开发**\n\n> 更新小故事：咕咕咕准备今晚发版，修几个 Bug 发正式版！正式版发布成功！再发 Beta 通道，发完后打开启动器天塌了，版本号没改！想着刚好修个 Java 选择错误，发个紧急更新……结果版本号写错了 :(\n\n## 修复\n\n- 错误的展示了不该展示的内容……\n- 版本号真的真的真的在 4 个渠道都正确了！\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.2...2.11.4\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载，Mirror 酱是可选下载源\n"
         },
         {
-            "file_name": "d31e3e3f7e031852f4855199e8cf04b2ae453f55ef516c6d272a3098a2f23590.zip",
+            "file_name": "aebdc9c801e47cfad25c00a6537eab757409a3a866b3b3a2c266338d15f885d2.zip",
             "version": {
                 "channel": "srarm64",
-                "name": "2.11.2",
-                "code": 374
+                "name": "2.11.4",
+                "code": 375
             },
-            "upd_time": "2025-06-10 11:06:00",
+            "upd_time": "2025-06-10 13:17:31",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/d31e3e3f7e031852f4855199e8cf04b2ae453f55ef516c6d272a3098a2f23590.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/aebdc9c801e47cfad25c00a6537eab757409a3a866b3b3a2c266338d15f885d2.zip"
             ],
-            "sha256": "db9714333f3d8e8ac922cb6444c04fcd47ba3f286abc982a8a8e6f6b30445697",
-            "changelog": "## 更新内容\n* **优化**: 隐藏“导入导出设置”按钮 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/707  \n* **修复**: 第三方登录启动失败问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/711  \n* **引导优化**: 当用户试图更改第三方验证档案的披风时，将其引导至皮肤站内修改 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/712  \n* **修复**: LabyMod 相关问题修复 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/714  \n* **修复**: 部分字段未使用 McLoginType 枚举值 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/722  \n* **修复**: 排序比较时间时未处理时间相同的情况 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/725  \n* **修复**: SMTC 相关问题修复 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/718  \n* **体验优化**: 提升调试体验 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/717  \n* **代码同步**: Sync Code by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/731  \n* **代码同步**: Sync Code by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/732  \n* **修复**: CI 问题修复 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/734  \n* **主题系统**: 基于 HSL 颜色转换的全新主题系统 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/720  \n* **功能新增**: 添加新的更新源 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/729  \n* **修复**: 可能在获取更新信息前检查启动器最新版本的问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/735  \n* **修复**: 深色主题相关问题修复 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/736  \n* **功能新增**: 为服务器预览功能添加随机字符串 by @MinecraftYJQ in https://github.com/PCL-Community/PCL2-CE/pull/761  \n* **体验优化**: 服务器延迟测试与 UI 改进 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/760  \n* **修复**: 服务器解析可能引发的异常问题 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/763  \n* **数据库优化**: 使用 SQLite 替换模组文本数据库 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/768  \n* **修复**: #365 问题修复 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/784  \n* **修复**: 1.16.5 离线多人游戏问题 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/787  \n* **修复**: 官方版加载帮助库时因未隔离导致的错误 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/788  \n* **重构**: C# VB.NET 混合开发 & Java 选择页面重构 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/740  \n* **功能新增**: 使用系统默认图片查看器打开截图 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/789  \n* **修复**: 玩家名修改功能失效问题 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/794  \n* **维护**: 更新翻译接口地址 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/796  \n\n## 新贡献者\n* @MinecraftYJQ 首次贡献于 https://github.com/PCL-Community/PCL2-CE/pull/761  \n* @baiyuexiao496 首次贡献于 https://github.com/PCL-Community/PCL2-CE/pull/788  \n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.1...2.11.2\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载"
+            "sha256": "69fa95adc4fd815dc18c600ed0dd497f2e844d6a9587b6331117c241916f7b11",
+            "changelog": "**本版本基于官方版 2.10.1 开发**\n\n> 更新小故事：咕咕咕准备今晚发版，修几个 Bug 发正式版！正式版发布成功！再发 Beta 通道，发完后打开启动器天塌了，版本号没改！想着刚好修个 Java 选择错误，发个紧急更新……结果版本号写错了 :(\n\n## 修复\n\n- 错误的展示了不该展示的内容……\n- 版本号真的真的真的在 4 个渠道都正确了！\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.2...2.11.4\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载，Mirror 酱是可选下载源\n"
         },
         {
-            "file_name": "4c787b64af916bc2e1e405c14bec84612ee5973f0a7dfdb490be7c38bfdb5406.zip",
+            "file_name": "c25fcb4911a086fe2e9c10d0c4fb7687b2f3010a06eb24331a4b447594985716.zip",
             "version": {
                 "channel": "srx64",
-                "name": "2.11.2",
-                "code": 374
+                "name": "2.11.4",
+                "code": 375
             },
-            "upd_time": "2025-06-10 11:05:59",
+            "upd_time": "2025-06-10 13:17:32",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/4c787b64af916bc2e1e405c14bec84612ee5973f0a7dfdb490be7c38bfdb5406.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/c25fcb4911a086fe2e9c10d0c4fb7687b2f3010a06eb24331a4b447594985716.zip"
             ],
-            "sha256": "ce4832930aea5c02a265bf077d314dd279a9970a42b0ac77ed22c546ca7e2e51",
-            "changelog": "## 更新内容\n* **优化**: 隐藏“导入导出设置”按钮 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/707  \n* **修复**: 第三方登录启动失败问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/711  \n* **引导优化**: 当用户试图更改第三方验证档案的披风时，将其引导至皮肤站内修改 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/712  \n* **修复**: LabyMod 相关问题修复 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/714  \n* **修复**: 部分字段未使用 McLoginType 枚举值 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/722  \n* **修复**: 排序比较时间时未处理时间相同的情况 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/725  \n* **修复**: SMTC 相关问题修复 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/718  \n* **体验优化**: 提升调试体验 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/717  \n* **代码同步**: Sync Code by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/731  \n* **代码同步**: Sync Code by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/732  \n* **修复**: CI 问题修复 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/734  \n* **主题系统**: 基于 HSL 颜色转换的全新主题系统 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/720  \n* **功能新增**: 添加新的更新源 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/729  \n* **修复**: 可能在获取更新信息前检查启动器最新版本的问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/735  \n* **修复**: 深色主题相关问题修复 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/736  \n* **功能新增**: 为服务器预览功能添加随机字符串 by @MinecraftYJQ in https://github.com/PCL-Community/PCL2-CE/pull/761  \n* **体验优化**: 服务器延迟测试与 UI 改进 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/760  \n* **修复**: 服务器解析可能引发的异常问题 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/763  \n* **数据库优化**: 使用 SQLite 替换模组文本数据库 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/768  \n* **修复**: #365 问题修复 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/784  \n* **修复**: 1.16.5 离线多人游戏问题 by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/pull/787  \n* **修复**: 官方版加载帮助库时因未隔离导致的错误 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/788  \n* **重构**: C# VB.NET 混合开发 & Java 选择页面重构 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/pull/740  \n* **功能新增**: 使用系统默认图片查看器打开截图 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/789  \n* **修复**: 玩家名修改功能失效问题 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/794  \n* **维护**: 更新翻译接口地址 by @baiyuexiao496 in https://github.com/PCL-Community/PCL2-CE/pull/796  \n\n## 新贡献者\n* @MinecraftYJQ 首次贡献于 https://github.com/PCL-Community/PCL2-CE/pull/761  \n* @baiyuexiao496 首次贡献于 https://github.com/PCL-Community/PCL2-CE/pull/788  \n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.1...2.11.2\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载"
+            "sha256": "cb3f3eea5bdde7a694056970abfb6ffd90bb70ee5e614ac7c4c29c3056c8d2c8",
+            "changelog": "**本版本基于官方版 2.10.1 开发**\n\n> 更新小故事：咕咕咕准备今晚发版，修几个 Bug 发正式版！正式版发布成功！再发 Beta 通道，发完后打开启动器天塌了，版本号没改！想着刚好修个 Java 选择错误，发个紧急更新……结果版本号写错了 :(\n\n## 修复\n\n- 错误的展示了不该展示的内容……\n- 版本号真的真的真的在 4 个渠道都正确了！\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.2...2.11.4\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载，Mirror 酱是可选下载源\n"
         }
     ]
 }
