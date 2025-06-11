@@ -1,59 +1,59 @@
 {
     "assets": [
         {
-            "file_name": "aebdc9c801e47cfad25c00a6537eab757409a3a866b3b3a2c266338d15f885d2.zip",
+            "file_name": "79acfecb7cc86d2169de9ed68830b3622dae471ffafc00b8710eab56a2d168ca.zip",
             "version": {
                 "channel": "frarm64",
-                "name": "2.11.4",
-                "code": 375
+                "name": "2.11.5",
+                "code": 377
             },
-            "upd_time": "2025-06-10 13:17:31",
+            "upd_time": "2025-06-11 11:22:40",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/aebdc9c801e47cfad25c00a6537eab757409a3a866b3b3a2c266338d15f885d2.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/79acfecb7cc86d2169de9ed68830b3622dae471ffafc00b8710eab56a2d168ca.zip"
             ],
-            "sha256": "69fa95adc4fd815dc18c600ed0dd497f2e844d6a9587b6331117c241916f7b11",
+            "sha256": "69286c33ac87a338f146b90bbdfcf3e86d5c17e69ce96524d633b9ff5f6e8a84",
             "changelog": "**本版本基于官方版 2.10.1 开发**\n\n> 更新小故事：咕咕咕准备今晚发版，修几个 Bug 发正式版！正式版发布成功！再发 Beta 通道，发完后打开启动器天塌了，版本号没改！想着刚好修个 Java 选择错误，发个紧急更新……结果版本号写错了 :(\n\n## 修复\n\n- 错误的展示了不该展示的内容……\n- 版本号真的真的真的在 4 个渠道都正确了！\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.2...2.11.4\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载，Mirror 酱是可选下载源\n"
         },
         {
-            "file_name": "c25fcb4911a086fe2e9c10d0c4fb7687b2f3010a06eb24331a4b447594985716.zip",
+            "file_name": "7861b7d3e1ecdd1ec854aedd23336db6804608392158cf16fc36fdc5c42b2935.zip",
             "version": {
                 "channel": "frx64",
-                "name": "2.11.4",
-                "code": 375
+                "name": "2.11.5",
+                "code": 377
             },
-            "upd_time": "2025-06-10 13:17:32",
+            "upd_time": "2025-06-11 11:22:41",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/c25fcb4911a086fe2e9c10d0c4fb7687b2f3010a06eb24331a4b447594985716.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/7861b7d3e1ecdd1ec854aedd23336db6804608392158cf16fc36fdc5c42b2935.zip"
             ],
-            "sha256": "cb3f3eea5bdde7a694056970abfb6ffd90bb70ee5e614ac7c4c29c3056c8d2c8",
+            "sha256": "719c4a7f708b35ee209111b8389048eafdc3323a5e83a7eefb782e3df5a5c36c",
             "changelog": "**本版本基于官方版 2.10.1 开发**\n\n> 更新小故事：咕咕咕准备今晚发版，修几个 Bug 发正式版！正式版发布成功！再发 Beta 通道，发完后打开启动器天塌了，版本号没改！想着刚好修个 Java 选择错误，发个紧急更新……结果版本号写错了 :(\n\n## 修复\n\n- 错误的展示了不该展示的内容……\n- 版本号真的真的真的在 4 个渠道都正确了！\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.2...2.11.4\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载，Mirror 酱是可选下载源\n"
         },
         {
-            "file_name": "aebdc9c801e47cfad25c00a6537eab757409a3a866b3b3a2c266338d15f885d2.zip",
+            "file_name": "79acfecb7cc86d2169de9ed68830b3622dae471ffafc00b8710eab56a2d168ca.zip",
             "version": {
                 "channel": "srarm64",
-                "name": "2.11.4",
-                "code": 375
+                "name": "2.11.5",
+                "code": 377
             },
-            "upd_time": "2025-06-10 13:17:31",
+            "upd_time": "2025-06-11 11:22:40",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/aebdc9c801e47cfad25c00a6537eab757409a3a866b3b3a2c266338d15f885d2.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/79acfecb7cc86d2169de9ed68830b3622dae471ffafc00b8710eab56a2d168ca.zip"
             ],
-            "sha256": "69fa95adc4fd815dc18c600ed0dd497f2e844d6a9587b6331117c241916f7b11",
+            "sha256": "69286c33ac87a338f146b90bbdfcf3e86d5c17e69ce96524d633b9ff5f6e8a84",
             "changelog": "**本版本基于官方版 2.10.1 开发**\n\n> 更新小故事：咕咕咕准备今晚发版，修几个 Bug 发正式版！正式版发布成功！再发 Beta 通道，发完后打开启动器天塌了，版本号没改！想着刚好修个 Java 选择错误，发个紧急更新……结果版本号写错了 :(\n\n## 修复\n\n- 错误的展示了不该展示的内容……\n- 版本号真的真的真的在 4 个渠道都正确了！\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.2...2.11.4\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载，Mirror 酱是可选下载源\n"
         },
         {
-            "file_name": "c25fcb4911a086fe2e9c10d0c4fb7687b2f3010a06eb24331a4b447594985716.zip",
+            "file_name": "7861b7d3e1ecdd1ec854aedd23336db6804608392158cf16fc36fdc5c42b2935.zip",
             "version": {
                 "channel": "srx64",
-                "name": "2.11.4",
-                "code": 375
+                "name": "2.11.5",
+                "code": 377
             },
-            "upd_time": "2025-06-10 13:17:32",
+            "upd_time": "2025-06-11 11:22:41",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/c25fcb4911a086fe2e9c10d0c4fb7687b2f3010a06eb24331a4b447594985716.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/7861b7d3e1ecdd1ec854aedd23336db6804608392158cf16fc36fdc5c42b2935.zip"
             ],
-            "sha256": "cb3f3eea5bdde7a694056970abfb6ffd90bb70ee5e614ac7c4c29c3056c8d2c8",
+            "sha256": "719c4a7f708b35ee209111b8389048eafdc3323a5e83a7eefb782e3df5a5c36c",
             "changelog": "**本版本基于官方版 2.10.1 开发**\n\n> 更新小故事：咕咕咕准备今晚发版，修几个 Bug 发正式版！正式版发布成功！再发 Beta 通道，发完后打开启动器天塌了，版本号没改！想着刚好修个 Java 选择错误，发个紧急更新……结果版本号写错了 :(\n\n## 修复\n\n- 错误的展示了不该展示的内容……\n- 版本号真的真的真的在 4 个渠道都正确了！\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.2...2.11.4\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=gh-release)\n你也可以直接在下方的 Assets 中下载，Mirror 酱是可选下载源\n"
         }
     ]
