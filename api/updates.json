@@ -1,59 +1,59 @@
 {
     "assets": [
         {
-            "file_name": "cd188dae76a4680cad7ae00417223f744dfe6194ca60bfbdb3e2dee4cb879951.zip",
+            "file_name": "705f3b24d9db653eeef30b70527dbf73183f55d241fda434412d9949d9486c19.zip",
             "version": {
                 "channel": "frarm64",
-                "name": "2.11.6",
-                "code": 378
+                "name": "2.11.7",
+                "code": 379
             },
-            "upd_time": "2025-06-17 02:11:44",
+            "upd_time": "2025-06-20 17:58:18",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/cd188dae76a4680cad7ae00417223f744dfe6194ca60bfbdb3e2dee4cb879951.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/705f3b24d9db653eeef30b70527dbf73183f55d241fda434412d9949d9486c19.zip"
             ],
-            "sha256": "18a72c331ac6f758138d8691b537a13715a28379be7f1cf4fd05b65d9536100e",
+            "sha256": "92fc7d6449a144f499b2de0278ad236610b78e97febf4569e66108f175e1dbc4",
             "changelog": "> Bug 集合体了这是\n\n## 新功能\n\n- feat: 档案选择页面滚动条 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/816\n- feat: 将“下载正版玩家皮肤”移到 百宝箱 中 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/846\n- feat: 更改瞅眼服务器的背景 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/836\n\n## 修复\n\n- fix: 不会自动处理 Curseforge 的重定向链接 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/d82655d7f8cf1d32b87ec9fda424bda75da511dd\n- fix: 长于当前收藏夹的选项名显示不完整 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/815\n- fix: 深色模式对话框阴影颜色有误 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/822\n- fix: 启动参数位置有误导致预览版启动失败 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/a3879ba6cdaf3ce61a3d8e19b261a23aeabb807d\n- fix: Java 选择的一堆破问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/45b3d21806f79ba84d26bae661c32fb37d4a2a52\n- fix: 加载头像时可能发生错误 by @shimoranla in https://github.com/PCL-Community/PCL2-CE/commit/9fbe542ec0c0b2146feecd389fc1f6439579c67e\n- fix: 部分链接不正确 by @wyc-26 in https://github.com/PCL-Community/PCL2-CE/commit/d039e20e9ec8ddc371333d9002411af058f2e458\n\n## 小修改\n\n- chore: 降低日志等级 by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/825\n- feat: 增加 BsDiff 为之后的增量更新做准备 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/6ae338413181a725a7be5421cfb30645230f295a\n\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.5...2.11.6\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=pcl2ce-gh-release)\n你也可以直接在下方的 Assets 中下载"
         },
         {
-            "file_name": "f8edd175f725b164de84f7724c3fe1e350b91166f2d79fabf311875bbfe1e1ec.zip",
+            "file_name": "fce84ebc22bba551d01324882ee416c6c97bd3d309c28a8f1f20d47d2490ce16.zip",
             "version": {
                 "channel": "frx64",
-                "name": "2.11.6",
-                "code": 378
+                "name": "2.11.7",
+                "code": 379
             },
-            "upd_time": "2025-06-17 02:11:41",
+            "upd_time": "2025-06-20 17:58:18",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/f8edd175f725b164de84f7724c3fe1e350b91166f2d79fabf311875bbfe1e1ec.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/fce84ebc22bba551d01324882ee416c6c97bd3d309c28a8f1f20d47d2490ce16.zip"
             ],
-            "sha256": "e140cd9b6e545dac77b766031c2285650154ff41d6fc73700a34ac2e0a5f624c",
+            "sha256": "d31ce2c51e7af4fd5fc64f6f2f36634f2e95bd8a86d1ef07def79ff6153ac2ae",
             "changelog": "> Bug 集合体了这是\n\n## 新功能\n\n- feat: 档案选择页面滚动条 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/816\n- feat: 将“下载正版玩家皮肤”移到 百宝箱 中 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/846\n- feat: 更改瞅眼服务器的背景 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/836\n\n## 修复\n\n- fix: 不会自动处理 Curseforge 的重定向链接 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/d82655d7f8cf1d32b87ec9fda424bda75da511dd\n- fix: 长于当前收藏夹的选项名显示不完整 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/815\n- fix: 深色模式对话框阴影颜色有误 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/822\n- fix: 启动参数位置有误导致预览版启动失败 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/a3879ba6cdaf3ce61a3d8e19b261a23aeabb807d\n- fix: Java 选择的一堆破问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/45b3d21806f79ba84d26bae661c32fb37d4a2a52\n- fix: 加载头像时可能发生错误 by @shimoranla in https://github.com/PCL-Community/PCL2-CE/commit/9fbe542ec0c0b2146feecd389fc1f6439579c67e\n- fix: 部分链接不正确 by @wyc-26 in https://github.com/PCL-Community/PCL2-CE/commit/d039e20e9ec8ddc371333d9002411af058f2e458\n\n## 小修改\n\n- chore: 降低日志等级 by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/825\n- feat: 增加 BsDiff 为之后的增量更新做准备 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/6ae338413181a725a7be5421cfb30645230f295a\n\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.5...2.11.6\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=pcl2ce-gh-release)\n你也可以直接在下方的 Assets 中下载"
         },
         {
-            "file_name": "cd188dae76a4680cad7ae00417223f744dfe6194ca60bfbdb3e2dee4cb879951.zip",
+            "file_name": "705f3b24d9db653eeef30b70527dbf73183f55d241fda434412d9949d9486c19.zip",
             "version": {
                 "channel": "srarm64",
-                "name": "2.11.6",
-                "code": 378
+                "name": "2.11.7",
+                "code": 379
             },
-            "upd_time": "2025-06-17 02:11:44",
+            "upd_time": "2025-06-20 17:58:18",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/cd188dae76a4680cad7ae00417223f744dfe6194ca60bfbdb3e2dee4cb879951.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/705f3b24d9db653eeef30b70527dbf73183f55d241fda434412d9949d9486c19.zip"
             ],
-            "sha256": "18a72c331ac6f758138d8691b537a13715a28379be7f1cf4fd05b65d9536100e",
+            "sha256": "92fc7d6449a144f499b2de0278ad236610b78e97febf4569e66108f175e1dbc4",
             "changelog": "> Bug 集合体了这是\n\n## 新功能\n\n- feat: 档案选择页面滚动条 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/816\n- feat: 将“下载正版玩家皮肤”移到 百宝箱 中 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/846\n- feat: 更改瞅眼服务器的背景 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/836\n\n## 修复\n\n- fix: 不会自动处理 Curseforge 的重定向链接 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/d82655d7f8cf1d32b87ec9fda424bda75da511dd\n- fix: 长于当前收藏夹的选项名显示不完整 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/815\n- fix: 深色模式对话框阴影颜色有误 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/822\n- fix: 启动参数位置有误导致预览版启动失败 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/a3879ba6cdaf3ce61a3d8e19b261a23aeabb807d\n- fix: Java 选择的一堆破问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/45b3d21806f79ba84d26bae661c32fb37d4a2a52\n- fix: 加载头像时可能发生错误 by @shimoranla in https://github.com/PCL-Community/PCL2-CE/commit/9fbe542ec0c0b2146feecd389fc1f6439579c67e\n- fix: 部分链接不正确 by @wyc-26 in https://github.com/PCL-Community/PCL2-CE/commit/d039e20e9ec8ddc371333d9002411af058f2e458\n\n## 小修改\n\n- chore: 降低日志等级 by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/825\n- feat: 增加 BsDiff 为之后的增量更新做准备 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/6ae338413181a725a7be5421cfb30645230f295a\n\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.5...2.11.6\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=pcl2ce-gh-release)\n你也可以直接在下方的 Assets 中下载"
         },
         {
-            "file_name": "f8edd175f725b164de84f7724c3fe1e350b91166f2d79fabf311875bbfe1e1ec.zip",
+            "file_name": "fce84ebc22bba551d01324882ee416c6c97bd3d309c28a8f1f20d47d2490ce16.zip",
             "version": {
                 "channel": "srx64",
-                "name": "2.11.6",
-                "code": 378
+                "name": "2.11.7",
+                "code": 379
             },
-            "upd_time": "2025-06-17 02:11:41",
+            "upd_time": "2025-06-20 17:58:18",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/f8edd175f725b164de84f7724c3fe1e350b91166f2d79fabf311875bbfe1e1ec.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/fce84ebc22bba551d01324882ee416c6c97bd3d309c28a8f1f20d47d2490ce16.zip"
             ],
-            "sha256": "e140cd9b6e545dac77b766031c2285650154ff41d6fc73700a34ac2e0a5f624c",
+            "sha256": "d31ce2c51e7af4fd5fc64f6f2f36634f2e95bd8a86d1ef07def79ff6153ac2ae",
             "changelog": "> Bug 集合体了这是\n\n## 新功能\n\n- feat: 档案选择页面滚动条 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/816\n- feat: 将“下载正版玩家皮肤”移到 百宝箱 中 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/846\n- feat: 更改瞅眼服务器的背景 by @xrlzu in https://github.com/PCL-Community/PCL2-CE/pull/836\n\n## 修复\n\n- fix: 不会自动处理 Curseforge 的重定向链接 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/d82655d7f8cf1d32b87ec9fda424bda75da511dd\n- fix: 长于当前收藏夹的选项名显示不完整 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/815\n- fix: 深色模式对话框阴影颜色有误 by @ruattd in https://github.com/PCL-Community/PCL2-CE/pull/822\n- fix: 启动参数位置有误导致预览版启动失败 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/a3879ba6cdaf3ce61a3d8e19b261a23aeabb807d\n- fix: Java 选择的一堆破问题 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/45b3d21806f79ba84d26bae661c32fb37d4a2a52\n- fix: 加载头像时可能发生错误 by @shimoranla in https://github.com/PCL-Community/PCL2-CE/commit/9fbe542ec0c0b2146feecd389fc1f6439579c67e\n- fix: 部分链接不正确 by @wyc-26 in https://github.com/PCL-Community/PCL2-CE/commit/d039e20e9ec8ddc371333d9002411af058f2e458\n\n## 小修改\n\n- chore: 降低日志等级 by @shimoranla in https://github.com/PCL-Community/PCL2-CE/pull/825\n- feat: 增加 BsDiff 为之后的增量更新做准备 by @tangge233 in https://github.com/PCL-Community/PCL2-CE/commit/6ae338413181a725a7be5421cfb30645230f295a\n\n\n**完整更新日志**: https://github.com/PCL-Community/PCL2-CE/compare/2.11.5...2.11.6\n\n---\n\n[如果你有 Mirror 酱 CDK 可以直接使用此高速下载源](https://mirrorchyan.com/zh/projects?rid=PCL2-CE&source=pcl2ce-gh-release)\n你也可以直接在下方的 Assets 中下载"
         }
     ]
