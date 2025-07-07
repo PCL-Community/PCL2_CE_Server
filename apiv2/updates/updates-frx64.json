@@ -4,37 +4,47 @@
             "file_name": "PCL2_CE_Beta_x64.exe",
             "version": {
                 "channel": "frx64",
-                "name": "2.12.0-beta.3",
-                "code": 385
+                "name": "2.12.0-beta.5",
+                "code": 387
             },
-            "upd_time": "2025-07-06 13:39:21",
+            "upd_time": "2025-07-07 14:18:06",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/static/raw/f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/static/raw/dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb.zip"
             ],
             "patches": [
-                "5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781_f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308.patch",
+                "3f3192fb8769db1929a28d2634bb7306abe6074a5792ae692fd5a501cae574fd_a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977.patch",
+                "3f3192fb8769db1929a28d2634bb7306abe6074a5792ae692fd5a501cae574fd_dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb.patch",
+                "3f3192fb8769db1929a28d2634bb7306abe6074a5792ae692fd5a501cae574fd_c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.patch",
+                "3f3192fb8769db1929a28d2634bb7306abe6074a5792ae692fd5a501cae574fd_b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc.patch",
+                "5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781_a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977.patch",
+                "5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781_dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb.patch",
                 "5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781_c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.patch",
                 "5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781_b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc.patch",
-                "61620b992af8f1ee8c4918b2e3d38e24a52ef1d4ce331414050cc2fb8d2eea33_5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781.patch",
-                "61620b992af8f1ee8c4918b2e3d38e24a52ef1d4ce331414050cc2fb8d2eea33_f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308.patch",
+                "61620b992af8f1ee8c4918b2e3d38e24a52ef1d4ce331414050cc2fb8d2eea33_a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977.patch",
+                "61620b992af8f1ee8c4918b2e3d38e24a52ef1d4ce331414050cc2fb8d2eea33_dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb.patch",
                 "61620b992af8f1ee8c4918b2e3d38e24a52ef1d4ce331414050cc2fb8d2eea33_c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.patch",
                 "61620b992af8f1ee8c4918b2e3d38e24a52ef1d4ce331414050cc2fb8d2eea33_b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc.patch",
-                "9a0d8df76a1db5f16227a4fc61410ce4d67578daf16a200892ff4dfa9b1e6f09_5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781.patch",
-                "9a0d8df76a1db5f16227a4fc61410ce4d67578daf16a200892ff4dfa9b1e6f09_f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308.patch",
+                "9a0d8df76a1db5f16227a4fc61410ce4d67578daf16a200892ff4dfa9b1e6f09_a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977.patch",
+                "9a0d8df76a1db5f16227a4fc61410ce4d67578daf16a200892ff4dfa9b1e6f09_dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb.patch",
                 "9a0d8df76a1db5f16227a4fc61410ce4d67578daf16a200892ff4dfa9b1e6f09_c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.patch",
                 "9a0d8df76a1db5f16227a4fc61410ce4d67578daf16a200892ff4dfa9b1e6f09_b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc.patch",
-                "b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc_5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781.patch",
-                "b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc_f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308.patch",
-                "b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc_c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.patch",
-                "c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548_5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781.patch",
-                "c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548_f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308.patch",
-                "c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548_b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc.patch",
-                "f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308_5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781.patch",
+                "a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977_dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb.patch",
+                "a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977_c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.patch",
+                "a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977_b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc.patch",
+                "a53e058c5d9ff0e7cb4de5942879062caac1704eb0db3c463d7c21220527a01c_a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977.patch",
+                "a53e058c5d9ff0e7cb4de5942879062caac1704eb0db3c463d7c21220527a01c_dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb.patch",
+                "a53e058c5d9ff0e7cb4de5942879062caac1704eb0db3c463d7c21220527a01c_c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.patch",
+                "a53e058c5d9ff0e7cb4de5942879062caac1704eb0db3c463d7c21220527a01c_b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc.patch",
+                "dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb_a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977.patch",
+                "dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb_c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.patch",
+                "dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb_b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc.patch",
+                "f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308_a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977.patch",
+                "f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308_dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb.patch",
                 "f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308_c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.patch",
                 "f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308_b3b01963e503c1ab28183dfa1fe249520a2a0b5e9822742970277e81b1af27bc.patch"
             ],
-            "sha256": "f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308",
-            "changelog": "### &nbsp;&nbsp;&nbsp;🚀 新功能\n\n- 投影原理图管理相关优化，解决加载过慢的问题 &nbsp;-&nbsp; by @caomei269 in https://github.com/PCL-Community/PCL2-CE/issues/1000 [<samp>(fcf49)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/fcf49a4e)\n- 支持锁定窗口大小 &nbsp;-&nbsp; by @CiiLu in https://github.com/PCL-Community/PCL2-CE/issues/1014 [<samp>(7523b)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/7523bf70)\n- **JLW**:\n  - 不默认启用 &nbsp;-&nbsp; by @tangge233 in https://github.com/PCL-Community/PCL2-CE/issues/1013 [<samp>(1a588)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/1a58876e)\n- **NetCache**:\n  - 网络缓存 &nbsp;-&nbsp; by @tangge233 in https://github.com/PCL-Community/PCL2-CE/issues/1015 [<samp>(a500f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/a500fa32)\n- **SnapLite**:\n  - 部分内容改为仅修改而不是重新写入 &nbsp;-&nbsp; by @tangge233 [<samp>(e063c)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/e063c59b)\n- **UI**:\n  - 改回部分 UI &nbsp;-&nbsp; by @tangge233 [<samp>(20a56)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/20a5602f)\n- **launch**:\n  - 支持分析 mod loader 版本问题导致的崩溃并提示用户修改版本 &nbsp;-&nbsp; by @ruattd in https://github.com/PCL-Community/PCL2-CE/issues/1012 [<samp>(22e7a)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/22e7a258)\n- **promote**:\n  - 支持运行时提权操作 &nbsp;-&nbsp; by @ruattd [<samp>(6b44b)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/6b44b7ed)\n  - 添加预定义函数支持 &nbsp;-&nbsp; by @ruattd [<samp>(50c5f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/50c5f98e)\n\n### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- MMC 整合包 Libraries 应用可能出错 &nbsp;-&nbsp; by @Pigeon0v0 [<samp>(d4f94)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/d4f94796)\n- 大厅相关修复 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1010 [<samp>(15aea)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/15aeaecc)\n- **NetCache**:\n  - 错误的索引查找 &nbsp;-&nbsp; by @tangge233 [<samp>(16026)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/16026228)\n  - 错误的索引 &nbsp;-&nbsp; by @tangge233 [<samp>(1d292)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/1d2926a0)\n  - 一些使用问题 &nbsp;-&nbsp; by @tangge233 [<samp>(e4c75)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/e4c75e77)\n\n### &nbsp;&nbsp;&nbsp;📚 文档\n\n- 将贡献说明指向 wiki 页面 &nbsp;-&nbsp; by @ruattd in https://github.com/PCL-Community/PCL2-CE/issues/1016 [<samp>(ada93)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/ada93f72)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.2...2.12.0-beta.3)"
+            "sha256": "dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb",
+            "changelog": "### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- **Link**:\n  - 检测 Minecraft 可能会被过长时间地卡住 &nbsp;-&nbsp; by @tangge233 [<samp>(b030f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/b030f4d7)\n- **NetCache**:\n  - 使用数据库会导致部分情况下数据量过大导致数据库爆炸 &nbsp;-&nbsp; by @tangge233 [<samp>(1192d)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/1192d3af)\n- **Update**:\n  - 可能意外地在 UI 线程内获取信息 &nbsp;-&nbsp; by @shimoranla in https://github.com/PCL-Community/PCL2-CE/issues/1029 [<samp>(a5d31)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/a5d31cac)\n- **authlib**:\n  - 去除请求体中包含的错误的参数，并在部分弹窗上加入详细的错误信息 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1030 [<samp>(b72ea)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/b72eaaef)\n- **ci**:\n  - 可能的密钥替换错误 &nbsp;-&nbsp; by @tangge233 [<samp>(67460)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/67460509)\n  - 无法替换密钥 &nbsp;-&nbsp; by @tangge233 [<samp>(2cd82)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/2cd82be9)\n  - 这次密钥真的应用成功了 &nbsp;-&nbsp; by @tangge233 [<samp>(c6a75)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/c6a7501e)\n- **favorites**:\n  - 修复收藏夹修改备注时点击取消将丢失原来的备注信息的问题 &nbsp;-&nbsp; by @caomei269 in https://github.com/PCL-Community/PCL2-CE/issues/1027 [<samp>(4031c)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/4031cfa0)\n- **link**:\n  - 我服了 Action 居然不能处理引号和逗号 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1028 [<samp>(f51e7)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/f51e7e36)\n\n### &nbsp;&nbsp;&nbsp;⚡ 优化\n\n- **NetCache**: 使用单次创建的实例化避免多次实例化造成的性能问题 &nbsp;-&nbsp; by @tangge233 [<samp>(51289)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/512896ac)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.4...2.12.0-beta.5)"
         }
     ]
 }
