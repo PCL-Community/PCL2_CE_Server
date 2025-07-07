@@ -1,34 +1,34 @@
 {
     "assets": [
         {
-            "file_name": "a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977.zip",
+            "file_name": "53c54eb6baf98c2f830ad0b7ff46c5a06d379f0a40b67ff88c1e3947d267d6b6.zip",
             "version": {
                 "channel": "frarm64",
-                "name": "2.12.0-beta.5",
-                "code": 387
+                "name": "2.12.0-beta.6",
+                "code": 388
             },
-            "upd_time": "2025-07-07 14:18:05",
+            "upd_time": "2025-07-07 15:23:09",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/a3dd4997f4bae365beb2d3c0172553191f3b2174de84c81520e3e8b4c8fa5977.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/53c54eb6baf98c2f830ad0b7ff46c5a06d379f0a40b67ff88c1e3947d267d6b6.zip"
             ],
             "patches": [],
-            "sha256": "6cc7eb45f9a2c3f3b47eee8dc085cafc7e701f91ac7f5e2cb982a2d7539fbc8c",
-            "changelog": "### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- **Link**:\n  - 检测 Minecraft 可能会被过长时间地卡住 &nbsp;-&nbsp; by @tangge233 [<samp>(b030f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/b030f4d7)\n- **NetCache**:\n  - 使用数据库会导致部分情况下数据量过大导致数据库爆炸 &nbsp;-&nbsp; by @tangge233 [<samp>(1192d)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/1192d3af)\n- **Update**:\n  - 可能意外地在 UI 线程内获取信息 &nbsp;-&nbsp; by @shimoranla in https://github.com/PCL-Community/PCL2-CE/issues/1029 [<samp>(a5d31)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/a5d31cac)\n- **authlib**:\n  - 去除请求体中包含的错误的参数，并在部分弹窗上加入详细的错误信息 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1030 [<samp>(b72ea)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/b72eaaef)\n- **ci**:\n  - 可能的密钥替换错误 &nbsp;-&nbsp; by @tangge233 [<samp>(67460)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/67460509)\n  - 无法替换密钥 &nbsp;-&nbsp; by @tangge233 [<samp>(2cd82)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/2cd82be9)\n  - 这次密钥真的应用成功了 &nbsp;-&nbsp; by @tangge233 [<samp>(c6a75)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/c6a7501e)\n- **favorites**:\n  - 修复收藏夹修改备注时点击取消将丢失原来的备注信息的问题 &nbsp;-&nbsp; by @caomei269 in https://github.com/PCL-Community/PCL2-CE/issues/1027 [<samp>(4031c)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/4031cfa0)\n- **link**:\n  - 我服了 Action 居然不能处理引号和逗号 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1028 [<samp>(f51e7)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/f51e7e36)\n\n### &nbsp;&nbsp;&nbsp;⚡ 优化\n\n- **NetCache**: 使用单次创建的实例化避免多次实例化造成的性能问题 &nbsp;-&nbsp; by @tangge233 [<samp>(51289)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/512896ac)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.4...2.12.0-beta.5)"
+            "sha256": "48e79bb02eae52054b7ce791429844e5e4343aa7ed1b159ea5fe69174d3fe8c8",
+            "changelog": "### &nbsp;&nbsp;&nbsp;🚀 新功能\n\n- **setup**: 独立的主页预设/市场页面 &nbsp;-&nbsp; by @xrlzu in https://github.com/PCL-Community/PCL2-CE/issues/998 [<samp>(dc98d)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/dc98d3c9)\n\n### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- **Link**: 压根没连上啊 &nbsp;-&nbsp; by @tangge233 [<samp>(ea48f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/ea48f3a0)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.5...2.12.0-beta.6)"
         },
         {
-            "file_name": "dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb.zip",
+            "file_name": "3afd36c839df0cb3ece7f34424ba7e731604e4f48dc8e7fc28f4d20062f8e9c1.zip",
             "version": {
                 "channel": "frx64",
-                "name": "2.12.0-beta.5",
-                "code": 387
+                "name": "2.12.0-beta.6",
+                "code": 388
             },
-            "upd_time": "2025-07-07 14:18:06",
+            "upd_time": "2025-07-07 15:23:26",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/dacb997c68fd15a04cceb737abbc9c4faefd6ba7bb4d0119e096c3efcb5af5bb.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/3afd36c839df0cb3ece7f34424ba7e731604e4f48dc8e7fc28f4d20062f8e9c1.zip"
             ],
             "patches": [],
-            "sha256": "04630ed1ab8d00960350c21140300de20ca80e9e786f2bdef74aed9aca202566",
-            "changelog": "### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- **Link**:\n  - 检测 Minecraft 可能会被过长时间地卡住 &nbsp;-&nbsp; by @tangge233 [<samp>(b030f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/b030f4d7)\n- **NetCache**:\n  - 使用数据库会导致部分情况下数据量过大导致数据库爆炸 &nbsp;-&nbsp; by @tangge233 [<samp>(1192d)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/1192d3af)\n- **Update**:\n  - 可能意外地在 UI 线程内获取信息 &nbsp;-&nbsp; by @shimoranla in https://github.com/PCL-Community/PCL2-CE/issues/1029 [<samp>(a5d31)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/a5d31cac)\n- **authlib**:\n  - 去除请求体中包含的错误的参数，并在部分弹窗上加入详细的错误信息 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1030 [<samp>(b72ea)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/b72eaaef)\n- **ci**:\n  - 可能的密钥替换错误 &nbsp;-&nbsp; by @tangge233 [<samp>(67460)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/67460509)\n  - 无法替换密钥 &nbsp;-&nbsp; by @tangge233 [<samp>(2cd82)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/2cd82be9)\n  - 这次密钥真的应用成功了 &nbsp;-&nbsp; by @tangge233 [<samp>(c6a75)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/c6a7501e)\n- **favorites**:\n  - 修复收藏夹修改备注时点击取消将丢失原来的备注信息的问题 &nbsp;-&nbsp; by @caomei269 in https://github.com/PCL-Community/PCL2-CE/issues/1027 [<samp>(4031c)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/4031cfa0)\n- **link**:\n  - 我服了 Action 居然不能处理引号和逗号 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1028 [<samp>(f51e7)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/f51e7e36)\n\n### &nbsp;&nbsp;&nbsp;⚡ 优化\n\n- **NetCache**: 使用单次创建的实例化避免多次实例化造成的性能问题 &nbsp;-&nbsp; by @tangge233 [<samp>(51289)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/512896ac)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.4...2.12.0-beta.5)"
+            "sha256": "960c0c498507e844e7502a5d614ac517982d4ea1bf0b0f79ccf9e1948e277ad9",
+            "changelog": "### &nbsp;&nbsp;&nbsp;🚀 新功能\n\n- **setup**: 独立的主页预设/市场页面 &nbsp;-&nbsp; by @xrlzu in https://github.com/PCL-Community/PCL2-CE/issues/998 [<samp>(dc98d)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/dc98d3c9)\n\n### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- **Link**: 压根没连上啊 &nbsp;-&nbsp; by @tangge233 [<samp>(ea48f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/ea48f3a0)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.5...2.12.0-beta.6)"
         },
         {
             "file_name": "c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.zip",
