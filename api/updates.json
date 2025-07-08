@@ -1,34 +1,34 @@
 {
     "assets": [
         {
-            "file_name": "53c54eb6baf98c2f830ad0b7ff46c5a06d379f0a40b67ff88c1e3947d267d6b6.zip",
+            "file_name": "6216d93e1cfd3e2cbcfd4260d0609bdbe656e005cfabc355a255bac3020506e5.zip",
             "version": {
                 "channel": "frarm64",
-                "name": "2.12.0-beta.6",
-                "code": 388
+                "name": "2.12.0-beta.7",
+                "code": 389
             },
-            "upd_time": "2025-07-07 15:23:09",
+            "upd_time": "2025-07-08 14:58:38",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/53c54eb6baf98c2f830ad0b7ff46c5a06d379f0a40b67ff88c1e3947d267d6b6.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/6216d93e1cfd3e2cbcfd4260d0609bdbe656e005cfabc355a255bac3020506e5.zip"
             ],
             "patches": [],
-            "sha256": "48e79bb02eae52054b7ce791429844e5e4343aa7ed1b159ea5fe69174d3fe8c8",
-            "changelog": "### &nbsp;&nbsp;&nbsp;🚀 新功能\n\n- **setup**: 独立的主页预设/市场页面 &nbsp;-&nbsp; by @xrlzu in https://github.com/PCL-Community/PCL2-CE/issues/998 [<samp>(dc98d)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/dc98d3c9)\n\n### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- **Link**: 压根没连上啊 &nbsp;-&nbsp; by @tangge233 [<samp>(ea48f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/ea48f3a0)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.5...2.12.0-beta.6)"
+            "sha256": "48c8254f5cd0b457441e3362c3c5c3b72f121e23383ce312d145e3b8529e3bca",
+            "changelog": "### &nbsp;&nbsp;&nbsp;🚀 新功能\n\n- **Link**: 改进联机安全性 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1042 [<samp>(d83b8)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/d83b8ca6)\n- **Notification**: 支持简单的 Toast 通知 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1043 [<samp>(2180e)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/2180ec5d)\n\n### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- **MCPing**: 日志写入没有按照预期进行 &nbsp;-&nbsp; by @tangge233 [<samp>(d91fd)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/d91fd02d)\n- **link**: 创建者网络密钥不正确 &nbsp;-&nbsp; by @Pigeon0v0 [<samp>(c0508)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/c0508261)\n\n### &nbsp;&nbsp;&nbsp;⚡ 优化\n\n- **Link**: UI 小改动 &nbsp;-&nbsp; by @tangge233 [<samp>(4cb11)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/4cb11e7a)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.6...2.12.0-beta.7)"
         },
         {
-            "file_name": "3afd36c839df0cb3ece7f34424ba7e731604e4f48dc8e7fc28f4d20062f8e9c1.zip",
+            "file_name": "7047ccb2cfc4e69d64235ea0c1f018dcece425a28609abcf886954179546c98e.zip",
             "version": {
                 "channel": "frx64",
-                "name": "2.12.0-beta.6",
-                "code": 388
+                "name": "2.12.0-beta.7",
+                "code": 389
             },
-            "upd_time": "2025-07-07 15:23:26",
+            "upd_time": "2025-07-08 14:58:38",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/3afd36c839df0cb3ece7f34424ba7e731604e4f48dc8e7fc28f4d20062f8e9c1.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/7047ccb2cfc4e69d64235ea0c1f018dcece425a28609abcf886954179546c98e.zip"
             ],
             "patches": [],
-            "sha256": "960c0c498507e844e7502a5d614ac517982d4ea1bf0b0f79ccf9e1948e277ad9",
-            "changelog": "### &nbsp;&nbsp;&nbsp;🚀 新功能\n\n- **setup**: 独立的主页预设/市场页面 &nbsp;-&nbsp; by @xrlzu in https://github.com/PCL-Community/PCL2-CE/issues/998 [<samp>(dc98d)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/dc98d3c9)\n\n### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- **Link**: 压根没连上啊 &nbsp;-&nbsp; by @tangge233 [<samp>(ea48f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/ea48f3a0)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.5...2.12.0-beta.6)"
+            "sha256": "86a1bd6bfae9ca3613ba0ed3d3a5eed65c57fb63e1879d4dca7c2742d6fee8e1",
+            "changelog": "### &nbsp;&nbsp;&nbsp;🚀 新功能\n\n- **Link**: 改进联机安全性 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1042 [<samp>(d83b8)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/d83b8ca6)\n- **Notification**: 支持简单的 Toast 通知 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1043 [<samp>(2180e)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/2180ec5d)\n\n### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- **MCPing**: 日志写入没有按照预期进行 &nbsp;-&nbsp; by @tangge233 [<samp>(d91fd)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/d91fd02d)\n- **link**: 创建者网络密钥不正确 &nbsp;-&nbsp; by @Pigeon0v0 [<samp>(c0508)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/c0508261)\n\n### &nbsp;&nbsp;&nbsp;⚡ 优化\n\n- **Link**: UI 小改动 &nbsp;-&nbsp; by @tangge233 [<samp>(4cb11)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/4cb11e7a)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.6...2.12.0-beta.7)"
         },
         {
             "file_name": "c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.zip",
