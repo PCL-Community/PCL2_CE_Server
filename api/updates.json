@@ -1,34 +1,34 @@
 {
     "assets": [
         {
-            "file_name": "5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781.zip",
+            "file_name": "d208eebbf539a0c7d56c32e58ca4ab1b7fcb284990299936bbbe5d736afc9ed3.zip",
             "version": {
                 "channel": "frarm64",
-                "name": "2.12.0-beta.3",
-                "code": 385
+                "name": "2.12.0-beta.9",
+                "code": 391
             },
-            "upd_time": "2025-07-06 13:39:22",
+            "upd_time": "2025-07-09 08:19:54",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/5efbe327f9607b975234d4f7a036e2c63a9d16a37e52dcbfa0503abced95d781.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/d208eebbf539a0c7d56c32e58ca4ab1b7fcb284990299936bbbe5d736afc9ed3.zip"
             ],
             "patches": [],
-            "sha256": "20da9b2d914fe59e229a9df84c4a23fa6dc670ecf20699c542172bce5cd7503b",
-            "changelog": "### &nbsp;&nbsp;&nbsp;🚀 新功能\n\n- 投影原理图管理相关优化，解决加载过慢的问题 &nbsp;-&nbsp; by @caomei269 in https://github.com/PCL-Community/PCL2-CE/issues/1000 [<samp>(fcf49)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/fcf49a4e)\n- 支持锁定窗口大小 &nbsp;-&nbsp; by @CiiLu in https://github.com/PCL-Community/PCL2-CE/issues/1014 [<samp>(7523b)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/7523bf70)\n- **JLW**:\n  - 不默认启用 &nbsp;-&nbsp; by @tangge233 in https://github.com/PCL-Community/PCL2-CE/issues/1013 [<samp>(1a588)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/1a58876e)\n- **NetCache**:\n  - 网络缓存 &nbsp;-&nbsp; by @tangge233 in https://github.com/PCL-Community/PCL2-CE/issues/1015 [<samp>(a500f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/a500fa32)\n- **SnapLite**:\n  - 部分内容改为仅修改而不是重新写入 &nbsp;-&nbsp; by @tangge233 [<samp>(e063c)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/e063c59b)\n- **UI**:\n  - 改回部分 UI &nbsp;-&nbsp; by @tangge233 [<samp>(20a56)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/20a5602f)\n- **launch**:\n  - 支持分析 mod loader 版本问题导致的崩溃并提示用户修改版本 &nbsp;-&nbsp; by @ruattd in https://github.com/PCL-Community/PCL2-CE/issues/1012 [<samp>(22e7a)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/22e7a258)\n- **promote**:\n  - 支持运行时提权操作 &nbsp;-&nbsp; by @ruattd [<samp>(6b44b)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/6b44b7ed)\n  - 添加预定义函数支持 &nbsp;-&nbsp; by @ruattd [<samp>(50c5f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/50c5f98e)\n\n### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- MMC 整合包 Libraries 应用可能出错 &nbsp;-&nbsp; by @Pigeon0v0 [<samp>(d4f94)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/d4f94796)\n- 大厅相关修复 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1010 [<samp>(15aea)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/15aeaecc)\n- **NetCache**:\n  - 错误的索引查找 &nbsp;-&nbsp; by @tangge233 [<samp>(16026)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/16026228)\n  - 错误的索引 &nbsp;-&nbsp; by @tangge233 [<samp>(1d292)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/1d2926a0)\n  - 一些使用问题 &nbsp;-&nbsp; by @tangge233 [<samp>(e4c75)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/e4c75e77)\n\n### &nbsp;&nbsp;&nbsp;📚 文档\n\n- 将贡献说明指向 wiki 页面 &nbsp;-&nbsp; by @ruattd in https://github.com/PCL-Community/PCL2-CE/issues/1016 [<samp>(ada93)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/ada93f72)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.2...2.12.0-beta.3)"
+            "sha256": "61bd0bfc2e00f9dbf509d6a3ff9a2351c58f73a4750a8e2bf9e6fc3ee2a143af",
+            "changelog": "### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- **link**: 修复联机设置自定义节点输入字符崩溃的问题 &nbsp;-&nbsp; by @caomei269 in https://github.com/PCL-Community/PCL2-CE/issues/1052 [<samp>(d036f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/d036fef4)\n- **link**: 在某些电脑上可能无法启动联机 &nbsp;-&nbsp; by @Pigeon0v0 [<samp>(837e9)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/837e9dbc)\n\n### &nbsp;&nbsp;&nbsp;⚡ 优化\n\n- **Link**: UI 界面 &nbsp;-&nbsp; by @tangge233 [<samp>(65d58)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/65d585ae)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.8...2.12.0-beta.9)"
         },
         {
-            "file_name": "f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308.zip",
+            "file_name": "6196a70335c0949c52ed599d948a08038ce38a48f854c2964a0395fba89db1b0.zip",
             "version": {
                 "channel": "frx64",
-                "name": "2.12.0-beta.3",
-                "code": 385
+                "name": "2.12.0-beta.9",
+                "code": 391
             },
-            "upd_time": "2025-07-06 13:39:21",
+            "upd_time": "2025-07-09 08:19:50",
             "downloads": [
-                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/f297030ca075dc65809d07061e4efd6ba3a41774fd9f68ec18edac5066099308.zip"
+                "https://github.com/PCL-Community/PCL2_CE_Server/raw/refs/heads/main/assets/6196a70335c0949c52ed599d948a08038ce38a48f854c2964a0395fba89db1b0.zip"
             ],
             "patches": [],
-            "sha256": "f7fcfcb1d0407b7aaacc1b6bb08ea328e58cf158625a572f539c7cfede6a367e",
-            "changelog": "### &nbsp;&nbsp;&nbsp;🚀 新功能\n\n- 投影原理图管理相关优化，解决加载过慢的问题 &nbsp;-&nbsp; by @caomei269 in https://github.com/PCL-Community/PCL2-CE/issues/1000 [<samp>(fcf49)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/fcf49a4e)\n- 支持锁定窗口大小 &nbsp;-&nbsp; by @CiiLu in https://github.com/PCL-Community/PCL2-CE/issues/1014 [<samp>(7523b)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/7523bf70)\n- **JLW**:\n  - 不默认启用 &nbsp;-&nbsp; by @tangge233 in https://github.com/PCL-Community/PCL2-CE/issues/1013 [<samp>(1a588)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/1a58876e)\n- **NetCache**:\n  - 网络缓存 &nbsp;-&nbsp; by @tangge233 in https://github.com/PCL-Community/PCL2-CE/issues/1015 [<samp>(a500f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/a500fa32)\n- **SnapLite**:\n  - 部分内容改为仅修改而不是重新写入 &nbsp;-&nbsp; by @tangge233 [<samp>(e063c)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/e063c59b)\n- **UI**:\n  - 改回部分 UI &nbsp;-&nbsp; by @tangge233 [<samp>(20a56)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/20a5602f)\n- **launch**:\n  - 支持分析 mod loader 版本问题导致的崩溃并提示用户修改版本 &nbsp;-&nbsp; by @ruattd in https://github.com/PCL-Community/PCL2-CE/issues/1012 [<samp>(22e7a)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/22e7a258)\n- **promote**:\n  - 支持运行时提权操作 &nbsp;-&nbsp; by @ruattd [<samp>(6b44b)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/6b44b7ed)\n  - 添加预定义函数支持 &nbsp;-&nbsp; by @ruattd [<samp>(50c5f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/50c5f98e)\n\n### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- MMC 整合包 Libraries 应用可能出错 &nbsp;-&nbsp; by @Pigeon0v0 [<samp>(d4f94)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/d4f94796)\n- 大厅相关修复 &nbsp;-&nbsp; by @Pigeon0v0 in https://github.com/PCL-Community/PCL2-CE/issues/1010 [<samp>(15aea)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/15aeaecc)\n- **NetCache**:\n  - 错误的索引查找 &nbsp;-&nbsp; by @tangge233 [<samp>(16026)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/16026228)\n  - 错误的索引 &nbsp;-&nbsp; by @tangge233 [<samp>(1d292)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/1d2926a0)\n  - 一些使用问题 &nbsp;-&nbsp; by @tangge233 [<samp>(e4c75)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/e4c75e77)\n\n### &nbsp;&nbsp;&nbsp;📚 文档\n\n- 将贡献说明指向 wiki 页面 &nbsp;-&nbsp; by @ruattd in https://github.com/PCL-Community/PCL2-CE/issues/1016 [<samp>(ada93)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/ada93f72)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.2...2.12.0-beta.3)"
+            "sha256": "5555b7b16159f4bdf93adc7d0d3781c8d04908e5f5c52f560f03f332a9f0d7bb",
+            "changelog": "### &nbsp;&nbsp;&nbsp;🐛 修复\n\n- **link**: 修复联机设置自定义节点输入字符崩溃的问题 &nbsp;-&nbsp; by @caomei269 in https://github.com/PCL-Community/PCL2-CE/issues/1052 [<samp>(d036f)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/d036fef4)\n- **link**: 在某些电脑上可能无法启动联机 &nbsp;-&nbsp; by @Pigeon0v0 [<samp>(837e9)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/837e9dbc)\n\n### &nbsp;&nbsp;&nbsp;⚡ 优化\n\n- **Link**: UI 界面 &nbsp;-&nbsp; by @tangge233 [<samp>(65d58)</samp>](https://github.com/PCL-Community/PCL2-CE/commit/65d585ae)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/PCL-Community/PCL2-CE/compare/2.12.0-beta.8...2.12.0-beta.9)"
         },
         {
             "file_name": "c1c353e6d0f823a490d9500b736a92f363b492a806d7f3302895511471e0c548.zip",
