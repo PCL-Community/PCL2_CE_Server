@@ -11,6 +11,22 @@
                 "command_paramter": "https://www.bilibili.com/video/BV1GJ411x7h7"
             },
             "btn2": null
+        },
+        {
+            "title": "PCL CE 即将换用 .NET 8 框架",
+            "detail": "PCL CE 下一版本 (2.13.0) 即将换用 .NET 8 框架。\n.NET 8 将带来更流畅、更稳定的使用以及更多的开发可能性。\n请提前下载安装 .NET 8 运行时环境。\n如果你已经安装了 .NET 8 或更高版本的运行时环境，则无需重复安装。",
+            "id": "6d5593f5-bcb3-47e4-98ba-0674c6a47233",
+            "date": "2025-08-21 16:13:42",
+            "btn1": {
+                "text": "下载 .NET 8 (x64)(大多数选择)",
+                "command": "打开网页",
+                "command_paramter": "https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.19-windows-x64-installer"
+            },
+            "btn2": {
+                "text": "下载 .NET 8 (arm64)",
+                "command": "打开网页",
+                "command_paramter": "https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.19-windows-arm64-installer"
+            }
         }
     ]
 }
