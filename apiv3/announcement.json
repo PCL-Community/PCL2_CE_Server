@@ -17,6 +17,11 @@
                 "text": "打开网站",
                 "exec": "OpenWebSite",
                 "argument": "https://space.bilibili.com/36081646/"
+            },
+            {
+                "text": "不再显示",
+                "exec": "StopShow",
+                "argument": "675483d7-ef30-4c7c-b4b9-10f85b016433"
             }
         ]
     }
