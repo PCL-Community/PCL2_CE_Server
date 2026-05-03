@@ -1,0 +1,22 @@
+[
+    {
+        "title": "千秋万岁名，寂寞身后事",
+        "details": "你好，欢迎使用 PCL CE",
+        "priority": 0,
+        "level": 0,
+        "date": "2026-05-03 16:56:25+08:00",
+        "skip":{
+            "min": "2.14.6",
+            "max": "3.19.2",
+            "notBefore": "2026-05-04 20:12:07+12:00",
+            "notAfter": "2026-05-07 20:15:04+12:00"
+        },
+        "buttons":[
+            {
+                "text": "打开网站",
+                "exec": "OpenWebSite",
+                "argument": "https://space.bilibili.com/36081646/"
+            }
+        ]
+    }
+]
